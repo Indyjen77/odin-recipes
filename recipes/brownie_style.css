@@ -1,0 +1,21 @@
+ h1  {
+    background-color:beige;
+    text-align:center;
+    font-size: 75px;
+
+}
+ul, ol{
+    background-color:gray;
+    color:beige;
+    text-align:center
+}
+h2 {
+    font-weight:bold;
+    font-size:50px;
+    text-align:center;
+    background-color:beige;
+}
+* {
+    font-family:fantasy;
+    background-color:gray;
+}
